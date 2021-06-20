@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeremy1189
+- 👋 Hi, I’m @Jeremy1189, a PhD student from City University of Hong Kong
 - 👀 I’m interested in the machine learning applying to the material field
 - 🌱 I’m currently learning the AI methods to solve the problems in material field
 - 💞️ I’m looking to collaborate on the scholars who are have the Experiment/DFT data 
